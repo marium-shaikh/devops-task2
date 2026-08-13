@@ -1,4 +1,4 @@
-# DevOps Task 2 - Docker Containerization
+# DevOps Task 2 – Application Containerization & Asset Optimization
 
 This project is a simple Node.js application containerized using Docker.
 
