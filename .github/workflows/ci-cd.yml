@@ -22,6 +22,7 @@ jobs:
 
       - name: Run tests
         run: npm test
+        working-directory: ./app
         
       - name: Build Docker image
         run: docker build -t devops-task3-app ./app
